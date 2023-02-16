@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\floripamaistec\floripamaistec\Modulo 01\Semana 03\M1S03 Ex 1\M1S03 Ex 1\bin\Debug\net6.0\M1S03 Ex 1.exe
+C:\Users\USUARIO\Desktop\floripamaistec\floripamaistec\Modulo 01\Semana 03\M1S03 Ex 1\M1S03 Ex 1\bin\Debug\net6.0\M1S03 Ex 1.deps.json
+C:\Users\USUARIO\Desktop\floripamaistec\floripamaistec\Modulo 01\Semana 03\M1S03 Ex 1\M1S03 Ex 1\bin\Debug\net6.0\M1S03 Ex 1.runtimeconfig.json
+C:\Users\USUARIO\Desktop\floripamaistec\floripamaistec\Modulo 01\Semana 03\M1S03 Ex 1\M1S03 Ex 1\bin\Debug\net6.0\M1S03 Ex 1.dll
+C:\Users\USUARIO\Desktop\floripamaistec\floripamaistec\Modulo 01\Semana 03\M1S03 Ex 1\M1S03 Ex 1\bin\Debug\net6.0\M1S03 Ex 1.pdb
+C:\Users\USUARIO\Desktop\floripamaistec\floripamaistec\Modulo 01\Semana 03\M1S03 Ex 1\M1S03 Ex 1\obj\Debug\net6.0\M1S03 Ex 1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\floripamaistec\floripamaistec\Modulo 01\Semana 03\M1S03 Ex 1\M1S03 Ex 1\obj\Debug\net6.0\M1S03 Ex 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\floripamaistec\floripamaistec\Modulo 01\Semana 03\M1S03 Ex 1\M1S03 Ex 1\obj\Debug\net6.0\M1S03 Ex 1.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\floripamaistec\floripamaistec\Modulo 01\Semana 03\M1S03 Ex 1\M1S03 Ex 1\obj\Debug\net6.0\M1S03 Ex 1.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\floripamaistec\floripamaistec\Modulo 01\Semana 03\M1S03 Ex 1\M1S03 Ex 1\obj\Debug\net6.0\M1S03 Ex 1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\floripamaistec\floripamaistec\Modulo 01\Semana 03\M1S03 Ex 1\M1S03 Ex 1\obj\Debug\net6.0\M1S03 Ex 1.dll
+C:\Users\USUARIO\Desktop\floripamaistec\floripamaistec\Modulo 01\Semana 03\M1S03 Ex 1\M1S03 Ex 1\obj\Debug\net6.0\refint\M1S03 Ex 1.dll
+C:\Users\USUARIO\Desktop\floripamaistec\floripamaistec\Modulo 01\Semana 03\M1S03 Ex 1\M1S03 Ex 1\obj\Debug\net6.0\M1S03 Ex 1.pdb
+C:\Users\USUARIO\Desktop\floripamaistec\floripamaistec\Modulo 01\Semana 03\M1S03 Ex 1\M1S03 Ex 1\obj\Debug\net6.0\M1S03 Ex 1.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\floripamaistec\floripamaistec\Modulo 01\Semana 03\M1S03 Ex 1\M1S03 Ex 1\obj\Debug\net6.0\ref\M1S03 Ex 1.dll
