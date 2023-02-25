@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Desktop\floripamaistec\floripamaistec\Modulo 01\Semana 04\M1S04 Ex 1 a 6\M1S04 Ex 1 a 6\obj\Debug\net6.0\M1S04 Ex 1 a 6.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\floripamaistec\floripamaistec\Modulo 01\Semana 04\M1S04 Ex 1 a 6\M1S04 Ex 1 a 6\obj\Debug\net6.0\M1S04 Ex 1 a 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\floripamaistec\floripamaistec\Modulo 01\Semana 04\M1S04 Ex 1 a 6\M1S04 Ex 1 a 6\obj\Debug\net6.0\M1S04 Ex 1 a 6.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\floripamaistec\floripamaistec\Modulo 01\Semana 04\M1S04 Ex 1 a 6\M1S04 Ex 1 a 6\obj\Debug\net6.0\M1S04 Ex 1 a 6.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\floripamaistec\floripamaistec\Modulo 01\Semana 04\M1S04 Ex 1 a 6\M1S04 Ex 1 a 6\obj\Debug\net6.0\M1S04 Ex 1 a 6.csproj.CoreCompileInputs.cache
