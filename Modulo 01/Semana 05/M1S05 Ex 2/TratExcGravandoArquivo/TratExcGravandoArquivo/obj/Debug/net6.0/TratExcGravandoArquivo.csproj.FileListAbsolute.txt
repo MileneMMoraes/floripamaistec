@@ -1,0 +1,15 @@
+C:\Users\USUARIO\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\bin\Debug\net6.0\TratExcGravandoArquivo.exe
+C:\Users\USUARIO\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\bin\Debug\net6.0\TratExcGravandoArquivo.deps.json
+C:\Users\USUARIO\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\bin\Debug\net6.0\TratExcGravandoArquivo.runtimeconfig.json
+C:\Users\USUARIO\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\bin\Debug\net6.0\TratExcGravandoArquivo.dll
+C:\Users\USUARIO\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\bin\Debug\net6.0\TratExcGravandoArquivo.pdb
+C:\Users\USUARIO\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net6.0\TratExcGravandoArquivo.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net6.0\TratExcGravandoArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net6.0\TratExcGravandoArquivo.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net6.0\TratExcGravandoArquivo.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net6.0\TratExcGravandoArquivo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net6.0\TratExcGravandoArquivo.dll
+C:\Users\USUARIO\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net6.0\refint\TratExcGravandoArquivo.dll
+C:\Users\USUARIO\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net6.0\TratExcGravandoArquivo.pdb
+C:\Users\USUARIO\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net6.0\TratExcGravandoArquivo.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\TratExcGravandoArquivo\TratExcGravandoArquivo\obj\Debug\net6.0\ref\TratExcGravandoArquivo.dll
